@@ -8,4 +8,4 @@ Interface and Front-end for a podcast media tracker.
 
 # Figma
 
-<a href="https://www.figma.com/proto/hPQmyZ1UbWsBhCye2TDQKR/podcastracker?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1" rel="nofollow">Prototype</a>
+<a href="https://www.figma.com/proto/hPQmyZ1UbWsBhCye2TDQKR/podcastracker?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1" rel="nofollow" target="_blank>Prototype</a>
